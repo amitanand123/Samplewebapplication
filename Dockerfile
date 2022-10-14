@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "devops_sme" 
+MAINTAINER "amit" 
 COPY webapp/target/webapp.war /usr/local/tomcat/webapps
